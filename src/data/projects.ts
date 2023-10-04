@@ -1,3 +1,8 @@
+import topshelf from '@images/topshelf.jpg';
+import taska from '@images/taska.png';
+import urk from '@images/urk.jpg';
+import vac from '@images/vac.jpg';
+
 export const projects = [
     {
         "name": "TopShelf",
@@ -10,7 +15,7 @@ export const projects = [
             "MongoDB",
         ],
         "github": "https://github.com/Martucia/TopShelf",
-        "img": "/assets/topshelf.jpg",
+        "img": topshelf,
         "description": ""
     },
     {
@@ -24,7 +29,7 @@ export const projects = [
             "Docker"
         ],
         "github": null,
-        "img": "/assets/urk.jpg",
+        "img": urk,
         "description": ""
     },
     {
@@ -39,7 +44,7 @@ export const projects = [
             "MongoDB",
         ],
         "github": "https://github.com/Martucia/questionnaires_client",
-        "img": "/assets/vac.jpg",
+        "img": vac,
         "description": ""
     },
     {
@@ -54,7 +59,7 @@ export const projects = [
             "PostgreSQL",
         ],
         "github": "https://github.com/Martucia/taska",
-        "img": "/assets/taska.png",
+        "img": taska,
         "description": "Project at the stage of creation"
     }
 ]
