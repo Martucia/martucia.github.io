@@ -10,7 +10,7 @@ export const projects = [
             "MongoDB",
         ],
         "github": "https://github.com/Martucia/TopShelf",
-        "img": "/src/assets/topshelf.jpg",
+        "img": "/assets/topshelf.jpg",
         "description": ""
     },
     {
@@ -24,7 +24,7 @@ export const projects = [
             "Docker"
         ],
         "github": null,
-        "img": "/src/assets/urk.jpg",
+        "img": "/assets/urk.jpg",
         "description": ""
     },
     {
@@ -39,7 +39,7 @@ export const projects = [
             "MongoDB",
         ],
         "github": "https://github.com/Martucia/questionnaires_client",
-        "img": "/src/assets/vac.jpg",
+        "img": "/assets/vac.jpg",
         "description": ""
     },
     {
@@ -54,7 +54,7 @@ export const projects = [
             "PostgreSQL",
         ],
         "github": "https://github.com/Martucia/taska",
-        "img": "/src/assets/taska.png",
+        "img": "/assets/taska.png",
         "description": "Project at the stage of creation"
     }
 ]
