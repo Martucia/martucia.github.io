@@ -45,7 +45,7 @@ export const projects = [
         ],
         "github": "https://github.com/Martucia/questionnaires_client",
         "img": vac,
-        "description": "Дані до тестового акаунту - resume@gmail.com/resume123"
+        "description": "resume@gmail.com/resume123"
     },
     {
         "name": "Taska",
