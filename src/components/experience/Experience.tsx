@@ -28,7 +28,7 @@ const Experience = () => {
                         </div>
                     </div>
                     <div className={styles.duration}>
-                        Jun 2022 - Sep 2023
+                        Jun 2022 - Feb 2025
                     </div>
                 </div>
                 <div className={styles.block}>
